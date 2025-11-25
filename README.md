@@ -14,3 +14,6 @@ This mod enhances the visual experience on dedicated servers by extending the de
 2. Go to `Astro/Content/Paks`.
 3. Place the `DedicatedRenderDistance_P.pak` file in the `Paks` folder alongside the existing `.pak` files.
 4. Restart your dedicated server for the changes to take effect.
+
+## Improtant
+Due to performance issues, Only base items and vehicles along with a few others have increased render distance.
