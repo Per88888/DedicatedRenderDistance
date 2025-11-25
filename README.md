@@ -16,4 +16,4 @@ This mod enhances the visual experience on dedicated servers by extending the de
 4. Restart your dedicated server for the changes to take effect.
 
 ## Improtant
-Due to performance issues, Only base items and vehicles along with a few others have increased render distance.
+Due to performance issues, only base items and vehicles along with a few others have increased render distance.
