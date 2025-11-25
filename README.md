@@ -1,6 +1,16 @@
 # DedicatedRenderDistance
-Increases the render distance of dedicated servers in Astroneer.
 
-Installing.
+A server-side mod that increases the render distance on Astroneer dedicated servers.
 
-This is a server side mod only, to install it go to the install location of the Astroneer dedicated server and head to the file astro -> content -> packs and simply place the DedicatedRenderDistance next to the pak file thats already there.
+## Overview
+
+This mod enhances the visual experience on dedicated servers by extending the default render distance, allowing players to see further into the world.
+
+## Installation
+
+> **Note:** This is a server-side mod only. No client installation is required.
+
+1. Navigate to your Astroneer dedicated server installation directory.
+2. Go to `Astro/Content/Paks`.
+3. Place the `DedicatedRenderDistance_P.pak` file in the `Paks` folder alongside the existing `.pak` files.
+4. Restart your dedicated server for the changes to take effect.
