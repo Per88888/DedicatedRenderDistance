@@ -15,5 +15,5 @@ This mod enhances the visual experience on dedicated servers by extending the de
 3. Place the `DedicatedRenderDistance_P.pak` file in the `Paks` folder alongside the existing `.pak` files.
 4. Restart your dedicated server for the changes to take effect.
 
-## Improtant
+## Important
 Due to performance issues, only base items and vehicles along with a few others have increased render distance.
