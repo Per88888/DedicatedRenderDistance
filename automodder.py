@@ -16,7 +16,7 @@ import shutil
 # Render distance.
 NEW_NET_CULL = 10000000000
 
-TARGET_DIR = r"C:\Users\perno\Skrivbord\Astroneer modding\Game Files server\Nuttcull test full auto\Content"
+TARGET_DIR = r"C:\Users..."
 
 # UAssetGUI Settings
 UASSET_EXE = "UAssetGUI.exe"
@@ -167,4 +167,5 @@ if __name__ == "__main__":
     process_files()
     cleanup()
     print("\n---------------------------------------------------")
+
     print("Check the 'Modded_Build' folder for results.")
